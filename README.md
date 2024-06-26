@@ -1,16 +1,16 @@
 <div align="center">
-  <h1>Hello there, I'm <a href=""><b>Ricardo Vélez</b></a> <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛/> !</h1>
+  <h1>Hello there, I'm <a href=""><b>Ricardo Velez</b></a> <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛/> !</h1>
     
   <h2><i>Welcome to my GitHub profile!</i></h2>
 
-  <img src="https://wallpapercave.com/wp/wp6606972.png" width="800" height="490" alt="Nest Logo" /></a>
+  <img src="https://wallpapercave.com/wp/wp6606972.png" width="400" height="225" alt="Nest Logo" /></a>
 </div>
 
 ## About Me
 
 I'm a passionate software developer with a focus on backend development and DevOps. Since 2019, I've been immersed in the programming world, continuously learning and earning certifications from prestigious online schools. I have experience working with both international and national companies, leading teams, and collaborating with talented professionals.
 
-## Main Skills
+## Main Stack
 
 <ul>
   <li>
